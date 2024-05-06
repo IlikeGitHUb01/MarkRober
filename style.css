@@ -1,0 +1,52 @@
+#intro 
+{
+    background:linear-gradient(blue,rgb(216, 49, 216));
+    text-align:center;
+    font-family:"Archivo", sans-serif;
+    margin-top:30px;
+    
+}
+#middle
+{
+background:linear-gradient(rgb(20, 231, 20),rgb(40, 40, 253));
+text-align:center;
+color:white;
+margin-top:-15px;
+}
+#videos
+{  
+    text-align:center;
+}
+#a
+{
+    border-width:2px;
+    border-color: red;
+}
+
+ul
+{
+width:100%;
+background-color:skyblue;
+padding-top:10px;
+position:fixed;
+top:0px;
+margin-top:0px;
+}
+body 
+{
+    text-align:center;
+}
+li
+{
+    display:inline;
+    padding-left:30px;
+    padding-right:30px;
+    
+}
+a 
+{
+    text-decoration:none;
+    color: red;
+    font-size:20px;
+    font-weight:500;
+}
